@@ -1,63 +1,50 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=R%C4%83zvan&fontSize=70&bg_color=0D1117&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=65&stroke=8B5CF6&strokeWidth=1" alt="Răzvan Header Banner" />
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+personal+%26+academic+projects;Deep+diving+into+Next.js;Passionate+about+UI+Design;Actively+seeking+internship+opportunities" alt="Typing SVG" />
-</a>
-
-<br/>
-
-## 👨‍💻 About Me
-
-<div align="center" style="width: 80%; text-align: center;">
-  I am a passionate <strong>Computer Science student</strong> currently building a solid foundation in software engineering.<br/>
-  My focus is on expanding my knowledge and tech stack, specializing in <strong>Next.js</strong>.<br/>
-  I love combining technical skills with <strong>UI Design</strong> to create clean, intuitive, and beautiful user experiences.<br/>
-  I am actively looking for an <strong>internship opportunity</strong> where I can apply my skills, learn, and grow professionally.
+  <h1>Hi, I'm Răzvan 👋</h1>
+  <h3>Software Engineer | Full-Stack Developer | CS Student</h3>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+personal+%26+academic+projects;Deep+diving+into+Next.js;Passionate+about+UI+Design;Actively+seeking+internship+opportunities" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
+---
 
-## 🏆 GitHub Trophies
+### 👨‍💻 About Me
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Razvanpng&theme=tokyonight&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
-</a>
+I am a Computer Science student blending technical software engineering skills with an eye for UI design. I focus on writing clean code and creating intuitive user experiences.
 
-<br/>
+- 🔭 **Currently working on:** University assignments and personal Full-Stack projects.
+- 🌱 **Currently learning:** Advanced **Next.js** concepts and modern web architecture.
+- 💼 **Looking for:** An **internship** where I can contribute, learn, and grow as a developer.
+- 🎨 **Interests:** Bridging the gap between design (Figma/Adobe) and functional code.
 
-## 🛠️ Tech Stack
+---
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,kotlin,react,nextjs,mongodb,tailwind,git,figma,ps,ai&theme=dark&perline=10" alt="Tech Stack" />
-</a>
+### 🛠️ Tech Stack
 
-<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,kotlin,react,nextjs,mongodb,tailwind,git,figma,ps,ai&theme=dark&perline=8" alt="Tech Stack" />
+  </a>
+</div>
 
-## 📈 Recent Activity
+---
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Razvanpng&theme=dracula&color=8B5CF6&hide_border=true&area=true" alt="Activity Graph" />
-</a>
+### 💡 Daily Inspiration
 
-<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&text_color=A3B3BC&quote_color=8B5CF6&author_color=8B5CF6" alt="Dev Quote" />
+</div>
 
-## 📫 Let's Connect
+---
 
-<a href="https://www.linkedin.com/in/răzvan-știrbu-0554bb354">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:razvanstirbu@yahoo.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=yahoo&logoColor=8B5CF6" alt="Email" />
-</a>
+### 📫 Let's Connect
 
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Razvanpng&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/răzvan-știrbu-0554bb354">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
+  </a>
+  <a href="mailto:razvanstirbu@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=yahoo&logoColor=8B5CF6" alt="Email" />
+  </a>
 </div>
