@@ -1,1 +1,1 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Salut,%20sunt%20[Numele%20Tău]&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20i%20am%20[Razvan]&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62)
