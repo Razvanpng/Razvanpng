@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Răzvan 👋</h1>
+  <h1>Hello, I'm Răzvan 👋</h1>
   <h3>Software Engineer | Full-Stack Developer | CS Student</h3>
   
   <a href="https://git.io/typing-svg">
