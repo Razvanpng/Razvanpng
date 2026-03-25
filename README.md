@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Hello,%20I'm%20Răzvan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Răzvan+👋" alt="Title" />
 
   <h3>Software Engineer | Full-Stack Developer | CS Student</h3>
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+personal+%26+academic+projects;Deep+diving+into+Next.js;Passionate+about+UI+Design;Actively+seeking+internship+opportunities" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
+---
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
@@ -28,27 +29,25 @@
   </tr>
 </table>
 
-<br/>
+---
 
 ### 🎯 My Development Approach
 - **Design-Driven:** I use Figma and Adobe tools to wireframe and perfect the UI/UX before implementing the logic.
 - **Clean Code Focus:** Applying Computer Science fundamentals to write scalable, maintainable, and efficient code.
 - **Full-Stack Vision:** Connecting intuitive front-ends with robust back-end architectures, currently heavily focused on Next.js.
 
-<br/>
+---
 
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&text_color=A3B3BC&quote_color=8B5CF6&author_color=8B5CF6" alt="Dev Quote" />
 </div>
 
-<br/>
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
-  
-  <h3>📫 Let's Connect</h3>
+  <h2>📫 Let's Connect</h2>
+  <p><i>I am always open to discussing tech, design, or new opportunities.</i></p>
   <br>
 
   <a href="https://www.linkedin.com/in/răzvan-știrbu-0554bb354" target="_blank">
