@@ -43,14 +43,22 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
+  
   <h3>📫 Let's Connect</h3>
-  <a href="https://www.linkedin.com/in/răzvan-știrbu-0554bb354">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
+  <br>
+
+  <a href="https://www.linkedin.com/in/răzvan-știrbu-0554bb354" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:razvanstirbu@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=yahoo&logoColor=8B5CF6" alt="Email" />
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:razvanstirbu@yahoo.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-8B5CF6?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" />
   </a>
+  
+  <br>
+  <br>
 </div>
