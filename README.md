@@ -1,46 +1,52 @@
 <div align="center">
-  <h1>Hello, I'm Răzvan 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Hello,%20I'm%20Răzvan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+
   <h3>Software Engineer | Full-Stack Developer | CS Student</h3>
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+personal+%26+academic+projects;Deep+diving+into+Next.js;Passionate+about+UI+Design;Actively+seeking+internship+opportunities" alt="Typing SVG" />
   </a>
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none;">
+      <h3>👨‍💻 About Me</h3>
+      I am a Computer Science student blending technical software engineering skills with an eye for UI design. I focus on writing clean code and creating intuitive user experiences.<br><br>
+      🌱 <b>Currently learning:</b> Advanced Next.js & modern web architecture.<br>
+      🔭 <b>Currently working on:</b> University assignments & Full-Stack projects.<br>
+      💼 <b>Looking for:</b> A software engineering internship.<br>
+      🎨 <b>Interests:</b> Bridging the gap between UI design (Figma) and functional code.
+    </td>
+    <td width="45%" valign="top" align="center" style="border: none;">
+      <h3>🛠️ Tech Stack</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,kotlin,react,nextjs,mongodb,tailwind,git,figma,ps,ai&theme=dark&perline=5" alt="Tech Stack" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-I am a Computer Science student blending technical software engineering skills with an eye for UI design. I focus on writing clean code and creating intuitive user experiences.
+<br/>
 
-- 🔭 **Currently working on:** University assignments and personal Full-Stack projects.
-- 🌱 **Currently learning:** Advanced **Next.js** concepts and modern web architecture.
-- 💼 **Looking for:** An **internship** where I can contribute, learn, and grow as a developer.
-- 🎨 **Interests:** Bridging the gap between design (Figma/Adobe) and functional code.
+### 🎯 My Development Approach
+- **Design-Driven:** I use Figma and Adobe tools to wireframe and perfect the UI/UX before implementing the logic.
+- **Clean Code Focus:** Applying Computer Science fundamentals to write scalable, maintainable, and efficient code.
+- **Full-Stack Vision:** Connecting intuitive front-ends with robust back-end architectures, currently heavily focused on Next.js.
 
----
-
-### 🛠️ Tech Stack
+<br/>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,kotlin,react,nextjs,mongodb,tailwind,git,figma,ps,ai&theme=dark&perline=8" alt="Tech Stack" />
-  </a>
-</div>
-
----
-
-### 💡 Daily Inspiration
-
-<div align="center">
+  <h3>💡 Daily Inspiration</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&text_color=A3B3BC&quote_color=8B5CF6&author_color=8B5CF6" alt="Dev Quote" />
 </div>
 
----
-
-### 📫 Let's Connect
+<br/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
+  <h3>📫 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/răzvan-știrbu-0554bb354">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
   </a>
