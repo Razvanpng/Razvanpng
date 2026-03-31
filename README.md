@@ -15,10 +15,10 @@
     <td width="55%" valign="top" style="border: none;">
       <h3>👨‍💻 About Me</h3>
       I am a Computer Science student blending technical software engineering skills with an eye for UI design. I focus on writing clean code and creating intuitive user experiences.<br><br>
-      🌱 <b>Currently learning:</b> Advanced Next.js & modern web architecture.<br>
-      🔭 <b>Currently working on:</b> University assignments & Full-Stack projects.<br>
-      💼 <b>Looking for:</b> A software engineering internship.<br>
-      🎨 <b>Interests:</b> Bridging the gap between UI design (Figma) and functional code.
+      - <b>Currently learning:</b> Advanced Next.js & modern web architecture.<br>
+      - <b>Currently working on:</b> University assignments & Full-Stack projects.<br>
+      - <b>Looking for:</b> A software engineering internship.<br>
+      - <b>Interests:</b> Bridging the gap between UI design (Figma) and functional code.
     </td>
     <td width="45%" valign="top" align="center" style="border: none;">
       <h3>🛠️ Tech Stack</h3>
