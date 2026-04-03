@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I%27m+R%C4%83zvan+%F0%9F%91%8B" alt="Title" />
 
-  <h3>CS Student | Software Engineer | Full-Stack Developer</h3>
+  <h3>CS Student | oftware Engineer | Full-Stack Developer</h3>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+personal+%26+academic+projects;Deep+diving+into+Next.js;Passionate+about+UI+Design;Actively+seeking+internship+opportunities" alt="Typing SVG" />
