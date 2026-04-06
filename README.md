@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Răzvan </h1>
+  <h1>Hi there, I'm Răzvan 👋</h1>
   <h3>CS Student | Software Engineer | Full-Stack Developer</h3>
   <p>
     Building personal & academic projects • Deep diving into Next.js<br>
