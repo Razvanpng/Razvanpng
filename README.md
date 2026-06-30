@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Răzvan 👋</h1>
-  <h3>CS Student | Software Engineer | Full-Stack Developer</h3>
+  <h3>CS Student | Data Engineer | Full-Stack Developer</h3>
   <p>
     Building personal & academic projects • Deep diving into Next.js<br>
     Passionate about UI Design • Actively seeking internship opportunities
